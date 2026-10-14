@@ -250,3 +250,36 @@ body {
     }
 
 }
+
+/* Fix spacing between the game and score areas */
+
+.game-area {
+    height: auto;
+    min-height: 0;
+    max-height: none;
+    padding: 20px 16px 30px;
+    overflow: visible;
+}
+
+.question-area {
+    padding: 35px 0;
+}
+
+.btn--gray {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+}
+
+.score-area {
+    position: relative;
+    clear: both;
+    margin: 20px auto;
+    width: 100%;
+    max-width: 830px;
+    text-align: center;
+}
+
+.scores {
+    padding: 12px;
+}
