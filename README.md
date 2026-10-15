@@ -39,7 +39,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |                                             |
 |    Correct Answers: 0   Incorrect: 0        |
 +---------------------------------------------+
----
+
 ### Mobile Layout
 +-----------------------+
 |  [Logo] Love Maths    |
@@ -59,7 +59,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |   Correct: 0          |
 |   Incorrect: 0        |
 +-----------------------+
----
+
 ## 🛠️ Technologies Used
 - HTML5: For structuring the web page and layout components.
 - CSS3: For custom styling, flexbox/grid layouts, responsive media queries, and animations.
