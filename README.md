@@ -12,7 +12,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 ## 📸 Wireframe & Layout Blueprints
 
 ### Desktop Layout
- text
+ ``` text
 +-------------------------------------------------------------------+
 |  [Logo] Love Maths                                                |
 +-------------------------------------------------------------------+
