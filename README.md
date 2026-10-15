@@ -25,3 +25,57 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |                                                                   |
 |    Correct Answers: 0          Incorrect Answers: 0               |
 +-------------------------------------------------------------------+
+
+### Tablet Layout
++---------------------------------------------+
+|  [Logo] Love Maths                          |
++---------------------------------------------+
+|                                             |
+|       ( + )    ( - )    ( x )    ( / )      |
+|                                             |
+|           [operand1] [+] [operand2] =       |
+|           Enter Answer: [ input-box ]       |
+|           [ Submit Answer Button ]          |
+|                                             |
+|    Correct Answers: 0   Incorrect: 0        |
++---------------------------------------------+
+
+### Mobile Layout
++-----------------------+
+|  [Logo] Love Maths    |
++-----------------------+
+|                       |
+|   ( + )     ( - )     |
+|   ( x )     ( / )     |
+|                       |
+|   [operand1]          |
+|   [operator]          |
+|   [operand2]          |
+|   =                   |
+|   Enter Answer:       |
+|   [ input-box ]       |
+|   [ Submit Answer ]   |
+|                       |
+|   Correct: 0          |
+|   Incorrect: 0        |
++-----------------------+
+
+## 🛠️ Technologies Used
+- HTML5: For structuring the web page and layout components.
+- CSS3: For custom styling, flexbox/grid layouts, responsive media queries, and animations.
+- JavaScript (ES6+): For game logic, random number generation, dynamic DOM manipulation, and event handling.
+- Font Awesome: For clean iconography inside buttons.
+- Google Fonts: Using Raleway and Righteous fonts for typography.
+
+## 🚀 Features
+- Four Math Operations: Test addition, subtraction, multiplication, and division.
+- Dynamic Validation: Division questions automatically calculate clean whole-number answers without confusing decimals.
+- Real-Time Score Tracker: Keeps an instant tally of correct and incorrect attempts.
+- Keyboard Support: Users can press the Enter key to submit answers quickly.
+- Fully Responsive: Adapts seamlessly to mobile phones, tablets, and desktop computers.
+
+## 📋 Credits & Acknowledgements
+1. Code Institute UK & EKC Group: Special thanks to [Code Institute UK](https://lms.codeinstitute.net/) and [EKC Group](https://www.ekcgroup.ac.uk/our-group/colleges/) for the core educational curriculum, guidance, and foundational project structure.
+2. Tutorial Reference: Inspired and guided by the [YouTube HTML, CSS, and JavaScript Projects for Beginners 2023 Tutorial](https://www.youtube.com/watch?v=NfvtQ2p5QG4&pp=ygUzaHRtbCBjc3MgYW5k javFzY3JpcHQgcHJvamVjdHMgZm9yIGJlZ2lubmVycyAyMDIz).
+3. Documentation & Reference: [W3Schools](https://www.w3schools.com/) for handy syntax reference.
+4. Development Environment: Built and tested using [Replit](https://replit.com/).
