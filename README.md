@@ -12,7 +12,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 ## 📸 Wireframe & Layout Blueprints
 
 ### Desktop Layout
---- text
+ text
 +-------------------------------------------------------------------+
 |  [Logo] Love Maths                                                |
 +-------------------------------------------------------------------+
@@ -26,7 +26,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |    Correct Answers: 0          Incorrect Answers: 0               |
 +-------------------------------------------------------------------+
 
---- ### Tablet Layout
+ ### Tablet Layout
 +---------------------------------------------+
 |  [Logo] Love Maths                          |
 +---------------------------------------------+
