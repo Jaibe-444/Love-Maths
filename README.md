@@ -75,8 +75,8 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 - Fully Responsive: Adapts seamlessly to mobile phones, tablets, and desktop computers.
 
 ## 📋 Credits & Acknowledgements
-1. Code Institute UK & EKC Group: Special thanks to [Code Institute UK](https://lms.codeinstitute.net/) and [EKC Group](https://www.ekcgroup.ac.uk/our-group/colleges/) for the core educational curriculum, guidance, and foundational project structure.
-2. Tutorial Reference: Inspired and guided by the [YouTube HTML, CSS, and JavaScript Projects for Beginners 2023 Tutorial](https://www.youtube.com/watch?v=NfvtQ2p5QG4&pp=ygUzaHRtbCBjc3MgYW5k javFzY3JpcHQgcHJvamVjdHMgZm9yIGJlZ2lubmVycyAyMDIz).
-3. Documentation & Reference: [W3Schools](https://www.w3schools.com/) for handy syntax reference.
-4. Development Environment: Built and tested using [Replit](https://replit.com/).
+1. **Code Institute UK & EKC Group**: Special thanks to <a href="https://lms.codeinstitute.net/" target="_blank">Code Institute UK</a> and <a href="https://www.ekcgroup.ac.uk/our-group/colleges/" target="_blank">EKC Group</a> for the core educational curriculum, guidance, and foundational project structure.
+2. **Tutorial Reference**: Inspired and guided by the <a href="https://www.youtube.com/watch?v=NfvtQ2p5QG4&pp=ygUzaHRtbCBjc3MgYW5kIGphdmFzY3JpcHQgcHJvamVjdHMgZm9yIGJlZ2lubmVycyAyMDIz" target="_blank">YouTube HTML, CSS, and JavaScript Projects for Beginners 2023 Tutorial</a>.
+3. **Documentation & Reference**: <a href="https://www.w3schools.com/" target="_blank">W3Schools</a> for handy syntax reference.
+4. **Development Environment**: Built and tested using <a href="https://replit.com/" target="_blank">Replit</a>.
 ---
