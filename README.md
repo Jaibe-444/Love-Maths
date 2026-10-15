@@ -12,7 +12,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 ## 📸 Wireframe & Layout Blueprints
 
 ### Desktop Layout
-```text
+--- text
 +-------------------------------------------------------------------+
 |  [Logo] Love Maths                                                |
 +-------------------------------------------------------------------+
@@ -26,7 +26,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |    Correct Answers: 0          Incorrect Answers: 0               |
 +-------------------------------------------------------------------+
 
-``` ### Tablet Layout
+--- ### Tablet Layout
 +---------------------------------------------+
 |  [Logo] Love Maths                          |
 +---------------------------------------------+
@@ -39,7 +39,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |                                             |
 |    Correct Answers: 0   Incorrect: 0        |
 +---------------------------------------------+
-
+---
 ### Mobile Layout
 +-----------------------+
 |  [Logo] Love Maths    |
@@ -59,7 +59,7 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 |   Correct: 0          |
 |   Incorrect: 0        |
 +-----------------------+
-
+---
 ## 🛠️ Technologies Used
 - HTML5: For structuring the web page and layout components.
 - CSS3: For custom styling, flexbox/grid layouts, responsive media queries, and animations.
@@ -79,4 +79,4 @@ Hello everyone! For my project, I built a dynamic JavaScript-powered web applica
 2. Tutorial Reference: Inspired and guided by the [YouTube HTML, CSS, and JavaScript Projects for Beginners 2023 Tutorial](https://www.youtube.com/watch?v=NfvtQ2p5QG4&pp=ygUzaHRtbCBjc3MgYW5k javFzY3JpcHQgcHJvamVjdHMgZm9yIGJlZ2lubmVycyAyMDIz).
 3. Documentation & Reference: [W3Schools](https://www.w3schools.com/) for handy syntax reference.
 4. Development Environment: Built and tested using [Replit](https://replit.com/).
-```
+---
