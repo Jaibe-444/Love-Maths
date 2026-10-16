@@ -6,6 +6,10 @@ Welcome to **Love Maths**! This is an interactive, browser-based mathematics gam
 
 ## 🌟 Student Presentation Overview
 Hello everyone! For my project, I built a dynamic JavaScript-powered web application called **Love Maths**. My goal was to create a clean, responsive, and user-friendly math game where players can test their skills across four core operations: Addition, Subtraction, Multiplication, and Division. The app tracks correct and incorrect answers in real-time, providing an engaging way to sharpen everyday math proficiency.
+## 🔗 Live Demo
+You can view the live version of the Love Maths game hosted on GitHub Pages here:
+- <a href="https://jaibe-444.github.io/Love-Maths/" target="_blank">Love Maths Live Website</a>
+<a href="https://jaibe-444.github.io/Love-Maths/" target="_blank">Love Maths Live Website</a>
 
 ---
 
